@@ -1,0 +1,232 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+}
+/* hero-section */
+.navbar-log {
+  font-weight: bold;
+}
+.herobg {
+  background-color: black;
+}
+.hero-details {
+  margin-top: 100px;
+  margin-left: 30px;
+  font-size: 40px;
+}
+.name {
+  color: #fcfc;
+  font-family: "La Belle Aurore", cursive;
+}
+.name1 {
+  font-size: 80px;
+  font-size: bold;
+  font-family: "La Belle Aurore", cursive;
+}
+.hero-btn button {
+  background-color: red;
+  color: white;
+  font-family: "La Belle Aurore", cursive;
+}
+
+.hero-btn button:hover {
+  border: 2px red;
+  color: white;
+}
+.hero-img img {
+  width: 95%;
+  height: 100%;
+}
+/* about */
+.about {
+  background-color: black;
+}
+.about-img {
+  margin-left: 30px;
+}
+.about-img img {
+  border: 10px solid #fcfc;
+  border-radius: 50px;
+  width: 400px;
+  height: 500px;
+}
+.about-details {
+  margin-left: 30px;
+}
+.abpara {
+  color: #fcfc;
+}
+.about-btn button {
+  background-color: red;
+  color: white;
+}
+.about-btn button:hover {
+  background-color: black;
+  border: 2px solid red;
+  color: white;
+}
+
+.about-main {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  background-color: #62bdfc;
+}
+
+.about-main a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.about-main a:hover {
+  color: black;
+  text-decoration: underline;
+}
+.ab {
+  background-color: black;
+}
+.abmain-details {
+  margin-top: 150px;
+}
+.abmain-img {
+  margin-top: 50px;
+}
+.abmain-img img {
+  height: 500px;
+  width: 500px;
+}
+.av1 {
+  font-weight: bold;
+}
+/* footer */
+.footer {
+  background-color: #2e2e2e;
+  padding-top: 50px;
+}
+
+/* service-main */
+.service-main {
+  background-color: black;
+  padding-top: 50px;
+}
+.serbox {
+  padding-bottom: 30px;
+  background-color: #191919;
+  border-radius: 30px;
+}
+.serbox img {
+  padding-top: 20px;
+  border-radius: 120px;
+  width: 150px;
+  height: 150px;
+}
+.serbox h1 {
+  padding-top: 30px;
+  font-size: 30px;
+}
+.ser-par {
+  color: #fcfc;
+}
+/* counter-section */
+.counter-section {
+  background-color: #62bdfc;
+}
+/* contact */
+.cont-btn button {
+  background-color: #62bdfc;
+  color: white;
+}
+.cont-btn button:hover {
+  background-color: black;
+  border: 2px solid #62bdfc;
+  color: white;
+}
+.contact-setion {
+  background-color: black;
+}
+/* skill-section */
+.skill-section {
+  background-color: black;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.box {
+  border: 2px solid#62bdfc;
+  height: 20px;
+}
+.mai-box {
+  border: 2px solid #62bdfc;
+  background-color: #62bdfc;
+  height: 16px;
+  width: 60%;
+}
+.mai-box2 {
+  border: 2px solid #62bdfc;
+  background-color: #62bdfc;
+  height: 15px;
+  width: 75%;
+}
+.mai-box3 {
+  border: 2px solid #62bdfc;
+  background-color: #62bdfc;
+  height: 15px;
+  width: 70%;
+}
+.mai-box4 {
+  border: 2px solid #62bdfc;
+  background-color: #62bdfc;
+  height: 15px;
+  width: 50%;
+}
+.mai-box5 {
+  border: 2px solid #62bdfc;
+  background-color: #62bdfc;
+  height: 15px;
+  width: 60%;
+}
+.mai-box6 {
+  border: 2px solid #62bdfc;
+  background-color: #62bdfc;
+  height: 15px;
+  width: 70%;
+}
+.mai-box7 {
+  border: 2px solid #62bdfc;
+  background-color: #62bdfc;
+  height: 15px;
+  width: 70%;
+}
+.mai-box8 {
+  border: 2px solid #62bdfc;
+  background-color: #62bdfc;
+  height: 15px;
+  width: 80%;
+}
+.skillper {
+  margin-left: 400px;
+}
+.erro {
+  background-color: black;
+  height: 100%;
+}
+.erro h1 {
+  padding-top: 200px;
+  font-weight: bold;
+}
+.erro-btn button {
+  color: white;
+  background-color: red;
+}
+.erro-btn  {
+  padding-bottom: 276px;
+}
+.erro-btn button:hover {
+  color: white;
+  background-color: black;
+  border: 2px solid red;
+}
+.adicon i{
+  color: white;
+}

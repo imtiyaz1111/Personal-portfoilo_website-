@@ -1,0 +1,19 @@
+{
+  "name": "personal-portfoilo_website",
+  "version": "1.0.0",
+  "description": "Personal portfoilo_website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js -e js,hbs,css,html"
+  },
+  "author": "imtiyaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "font-awesome-sass": "^4.7.0",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.8.0",
+    "validator": "^13.7.0"
+  }
+}
